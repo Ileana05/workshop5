@@ -4,7 +4,7 @@ package foo;
 public class Student {
 
 	private String name;
-	private int age;
+	private long age;
 
 	
 
@@ -14,7 +14,7 @@ public class Student {
 	public void setName(String name) {
 		this.name = name;
 	}
-	public int getAge() {
+	public long getAge() {
 		return age;
 	}
 	public void setAge(int age) {
