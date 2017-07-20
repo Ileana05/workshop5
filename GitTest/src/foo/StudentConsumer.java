@@ -8,7 +8,7 @@ public class StudentConsumer {
 		s1.setName("Ion");
 		s1.setAge(24);
 		
-		System.out.println("Hello "+s1.getName());
+		System.out.println("Hello student "+s1.getName());
 	}
 	
 }
