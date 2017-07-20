@@ -11,6 +11,7 @@ public class StudentConsumer {
 		System.out.println("Hello student "+s1.getName());
 		
 		StudentConsumer.displayAge(s1);
+		
 	}
 	
 	public static void displayAge(Student s){
